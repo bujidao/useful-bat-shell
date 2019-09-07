@@ -2,7 +2,7 @@
 
 * 使用方法，直接将文件/文件夹拖动到这个bat图标上面，bat将自动在文件/文件夹的名字后面加上当前的时间
 
-![aaa](https://github.com/bujidao/public-files/blob/master/images/bat.gif)
+![aaa](https://raw.githubusercontent.com/bujidao/public-files/master/images/bat.gif)
 
 
 
